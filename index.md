@@ -7,3 +7,7 @@ def current?
   dateline? && dateline <= Time.now
 end
 ```
+
+- [x] Get accredited
+- [x] Book tickets
+- [ ] Go to Edinburgh
